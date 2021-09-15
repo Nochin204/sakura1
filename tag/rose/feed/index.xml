@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rosé &#8211; Sakura</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/rose/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nochin204.github.io/sakura1</link>
+	<description>Kiến tạo phong cách </description>
+	<lastBuildDate>Wed, 15 Sep 2021 07:43:40 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/seweew.jpg</url>
+	<title>Rosé &#8211; Sakura</title>
+	<link>https://nochin204.github.io/sakura1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rosé là thần tượng Kpop đầu tiên dự Met Gala 2021</title>
+		<link>https://nochin204.github.io/sakura1/rose-la-than-tuong-kpop-dau-tien-du-met-gala-2021/</link>
+					<comments>https://nochin204.github.io/sakura1/rose-la-than-tuong-kpop-dau-tien-du-met-gala-2021/#comments</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 06:59:38 +0000</pubDate>
+				<category><![CDATA[Bóc tách sự kiện]]></category>
+		<category><![CDATA[BlacPink]]></category>
+		<category><![CDATA[MetGala]]></category>
+		<category><![CDATA[Rosé]]></category>
+		<guid isPermaLink="false">https://nochin204.github.io/sakura1/?p=262</guid>
+
+					<description><![CDATA[Là thành viên đầu tiên của BLACKPINK góp mặt trong Met Gala, Rosé thực sự đã khiến nhiều người phải khắc khoải mong đợi. Và sẽ không ngoa nếu nói, cô có khi là cái tên được dân tình hóng nhất trong sự kiện quan trọng này. ]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura1/rose-la-than-tuong-kpop-dau-tien-du-met-gala-2021/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
