@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>echino &#8211; Hinculent</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/echino/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nochin204.github.io/sakura1</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Sep 2021 07:03:43 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Xương rồng echino</title>
+		<link>https://nochin204.github.io/sakura1/product/xuong-rong-echino/</link>
+					<comments>https://nochin204.github.io/sakura1/product/xuong-rong-echino/#respond</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 05:24:19 +0000</pubDate>
+				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=611</guid>
+
+					<description><![CDATA[<span><strong>Xương rồng Echino </strong>là một loại xương rồng rất được yêu thích hiện nay.
+</span><span>+ Cây rất dễ chăm sóc, ít tốn công tưới
+</span><span>+ Hình dáng bắt mắt, dễ nhân giống
+</span><span>+ Cây hấp thụ bức xạ điện tử giúp bảo vệ sức khỏe</span>]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura1/product/xuong-rong-echino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

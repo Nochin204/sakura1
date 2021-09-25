@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chậu gỗ &#8211; Hinculent</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/chau-go/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nochin204.github.io/sakura1</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Sep 2021 05:29:44 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Chậu gỗ</title>
+		<link>https://nochin204.github.io/sakura1/product/chau-go/</link>
+					<comments>https://nochin204.github.io/sakura1/product/chau-go/#respond</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 04:14:36 +0000</pubDate>
+				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=603</guid>
+
+					<description><![CDATA[<span>- Chậu có kích thước vừa phải, thích hợp cho việc trồng tiểu cảnh sen đá, xương rồng và cây cảnh mini </span>
+
+<span>- Chậu có thiết kế đẹp, tương đối chắc chắn, giúp làm tôn lên vẻ đẹp của các loài cây cảnh. </span>
+
+<span>- Kích thước chậu : 22,5 * 8,5 * 4.5 cm </span>
+
+<span>- Chất liệu làm chậu cây: bằng gỗ </span>
+
+<span>- Màu sắc, hoa văn ngoài chậu: chậu có màu </span>
+
+<span>- Lỗ thoát nước ở đáy chậu: Không có</span>]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura1/product/chau-go/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

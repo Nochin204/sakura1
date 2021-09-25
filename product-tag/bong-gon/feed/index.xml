@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bông gòn &#8211; Hinculent</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/bong-gon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nochin204.github.io/sakura1</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Sep 2021 05:16:02 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Xương rồng bông gòn</title>
+		<link>https://nochin204.github.io/sakura1/product/xuong-rong-bong-gon/</link>
+					<comments>https://nochin204.github.io/sakura1/product/xuong-rong-bong-gon/#respond</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 02:06:18 +0000</pubDate>
+				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=576</guid>
+
+					<description><![CDATA[<span>Cây Xương Rồng Bông Gòn có tên chính xác là Mammillaria Plumosa chính vì tên của nó khá khó gọi mà về Việt Nam, </span><span>người dân dựa trên đặc điểm của cây mà đặt cho loài xương rồng này cái tên là Xương Rồng Bông Gòn. Cây phù hợp để bàn, quà tặng, trang trí quán cà phê, các góc nhỏ…</span>]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura1/product/xuong-rong-bong-gon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -7,57 +7,15 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Sakura	</title>
+	Bình luận cho Hinculent	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nochin204.github.io/sakura1</link>
-	<description>Kiến tạo phong cách </description>
-	<lastBuildDate>Thu, 16 Sep 2021 03:57:02 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sat, 25 Sep 2021 07:44:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-	<item>
-		<title>
-		Phản hồi cho Rosé là thần tượng Kpop đầu tiên dự Met Gala 2021 bởi pust davi		</title>
-		<link>https://nochin204.github.io/sakura1/rose-la-than-tuong-kpop-dau-tien-du-met-gala-2021/#comment-22</link>
-
-		<dc:creator><![CDATA[pust davi]]></dc:creator>
-		<pubDate>Wed, 15 Sep 2021 10:19:17 +0000</pubDate>
-		<guid isPermaLink="false">https://nochin204.github.io/sakura1/?p=262#comment-22</guid>
-
-					<description><![CDATA[thật sự ngưỡng mộ!!!]]></description>
-			<content:encoded><![CDATA[<p>thật sự ngưỡng mộ!!!</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho 10 kiểu phối đồ theo phong cách cool bởi pust davi		</title>
-		<link>https://nochin204.github.io/sakura1/10-kieu-phoi-do-theo-phong-cach-chat-nhu-nuoc-cat/#comment-21</link>
-
-		<dc:creator><![CDATA[pust davi]]></dc:creator>
-		<pubDate>Wed, 15 Sep 2021 10:18:56 +0000</pubDate>
-		<guid isPermaLink="false">https://nochin204.github.io/sakura1/?p=283#comment-21</guid>
-
-					<description><![CDATA[thật bổ ích]]></description>
-			<content:encoded><![CDATA[<p>thật bổ ích</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho NHỮNG BỘ TRANG SỨC ĐẲNG CẤP NHẤT MÙA HÈ NĂM 2021 bởi pust davi		</title>
-		<link>https://nochin204.github.io/sakura1/nhung-bo-trang-suc-dang-cap-nhat-mua-he-nam-2021/#comment-20</link>
-
-		<dc:creator><![CDATA[pust davi]]></dc:creator>
-		<pubDate>Wed, 15 Sep 2021 10:18:23 +0000</pubDate>
-		<guid isPermaLink="false">https://nochin204.github.io/sakura1/?p=307#comment-20</guid>
-
-					<description><![CDATA[Thật là một bài viết thú vị]]></description>
-			<content:encoded><![CDATA[<p>Thật là một bài viết thú vị</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

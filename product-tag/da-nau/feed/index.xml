@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>đá nâu &#8211; Hinculent</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/da-nau/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nochin204.github.io/sakura1</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Sep 2021 04:06:14 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Sen đá nâu</title>
+		<link>https://nochin204.github.io/sakura1/product/sen-da-nau/</link>
+					<comments>https://nochin204.github.io/sakura1/product/sen-da-nau/#respond</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 04:06:11 +0000</pubDate>
+				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=599</guid>
+
+					<description><![CDATA[<span>Lá của cây sen đá nâu có dạng bầu, đầu thon nhọn, các nhánh lá mọc xoay tròn tựa như hoa sen. Lá sen mới mọc có màu xanh lá, khi lớn dần sẽ chuyển qua màu màu tím đen hoặc nâu đậm.</span>
+
+Sen được trồng trong chậu nilon thông dụng
+
+kích thước 4 cm]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura1/product/sen-da-nau/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
