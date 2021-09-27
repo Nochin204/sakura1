@@ -27,7 +27,9 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }</style>
-	<link rel="stylesheet" id="dashicons-css" href="https://nochin204.github.io/sakura1/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
+	<link rel="stylesheet" id="bootstrap-css" href="https://nochin204.github.io/sakura1/wp-content/themes/hestia/assets/bootstrap/css/bootstrap.min.css?ver=1.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="hestia-font-sizes-css" href="https://nochin204.github.io/sakura1/wp-content/themes/hestia/assets/css/font-sizes.min.css?ver=3.0.19" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://nochin204.github.io/sakura1/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="menu-icons-extra-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/css/extra.min.css?ver=0.12.2" type="text/css" media="all">
 <link rel="stylesheet" id="wp-block-library-css" href="https://nochin204.github.io/sakura1/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="wc-blocks-vendors-style-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.7.2" type="text/css" media="all">
@@ -37,13 +39,10 @@ img.emoji {
 <link rel="stylesheet" id="themeisle-block_styles-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/otter-blocks/packages/codeinwp/gutenberg-blocks/build/style.css?ver=1.6.9" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="ot-vertical-menu-css-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/ot-flatsome-vertical-menu/assets/css/style.css?ver=1.2.3" type="text/css" media="all">
-<link rel="stylesheet" id="hestia-clients-bar-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/assets/css/hestia/clients-bar.css?ver=5.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-layout-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.7.1" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.7.1" type="text/css" media="only screen and (max-width: 768px)">
 <link rel="stylesheet" id="woocommerce-general-css" href="https://nochin204.github.io/sakura1/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.7.1" type="text/css" media="all">
 <style id="woocommerce-inline-inline-css" type="text/css">.woocommerce form .form-row .required { visibility: visible; }</style>
-<link rel="stylesheet" id="bootstrap-css" href="https://nochin204.github.io/sakura1/wp-content/themes/hestia/assets/bootstrap/css/bootstrap.min.css?ver=1.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="hestia-font-sizes-css" href="https://nochin204.github.io/sakura1/wp-content/themes/hestia/assets/css/font-sizes.min.css?ver=3.0.19" type="text/css" media="all">
 <link rel="stylesheet" id="hestia_style-css" href="https://nochin204.github.io/sakura1/wp-content/themes/hestia/style.min.css?ver=3.0.19" type="text/css" media="all">
 <style id="hestia_style-inline-css" type="text/css">div.wpforms-container-full .wpforms-form div.wpforms-field input.wpforms-error {
 				border: none;
@@ -181,6 +180,47 @@ img.emoji {
 			  border: none;
 			}
 		
+		.elementor-page .hestia-about > .container {
+		  width: 100%;
+		}
+		.elementor-page .pagebuilder-section {
+		  padding: 0;
+		}
+		.elementor-page .title-in-content, .elementor-page .image-in-page {
+		  display: none;
+		}
+		
+		.home.elementor-page .main-raised > section.hestia-about {
+		  overflow: visible;
+		}
+		
+		.elementor-editor-active .navbar {
+		  pointer-events: none;
+		}
+		
+		.elementor-editor-active #elementor.elementor-edit-mode .elementor-element-overlay {
+		  z-index: 1000000;
+		}
+		
+		.elementor-page.page-template-template-fullwidth .blog-post-wrapper > .container {
+		  width: 100%;
+		}
+		.elementor-page.page-template-template-fullwidth .blog-post-wrapper > .container .col-md-12 {
+		  padding: 0;
+		}
+		.elementor-page.page-template-template-fullwidth article.section {
+		  padding: 0;
+		}
+
+		.elementor-text-editor p, 
+		.elementor-text-editor h1, 
+		.elementor-text-editor h2, 
+		.elementor-text-editor h3, 
+		.elementor-text-editor h4, 
+		.elementor-text-editor h5, 
+		.elementor-text-editor h6 {
+		  font-size: inherit;
+		}
 		form.form-group[id^=sib] input[type=text],
 		form.form-group[id^=sib] input[type=email],
 		form.form-group[id^=sib] select {
@@ -397,11 +437,7 @@ h1, h2, h3, h4, h5, h6, .hestia-title, .hestia-title.title-in-content, p.meta-in
 			h1.hestia-title.title-in-content,
 			.main article.section .has-title-font-size {
 				font-size: 26px;
-			}}
-
-		.page-template-builder-fullwidth-std .header > .elementor {
-			padding-top: 70px;
-		}</style>
+			}}</style>
 <link rel="stylesheet" id="hestia_woocommerce_style-css" href="https://nochin204.github.io/sakura1/wp-content/themes/hestia/assets/css/woocommerce.min.css?ver=3.0.19" type="text/css" media="all">
 <style id="hestia_woocommerce_style-inline-css" type="text/css">.woocommerce-cart .shop_table .actions .coupon .input-text:focus,
 		.woocommerce-checkout #customer_details .input-text:focus, .woocommerce-checkout #customer_details select:focus,
@@ -558,7 +594,7 @@ h1, h2, h3, h4, h5, h6, .hestia-title, .hestia-title.title-in-content, p.meta-in
 <script type="text/javascript" id="sib-front-js-js-extra">
 /* <![CDATA[ */
 var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
-var ajax_sib_front_object = {"ajax_url":"https:\/\/nochin204.github.io\/sakura1\/wp-admin\/admin-ajax.php","ajax_nonce":"c995401c85","flag_url":"https:\/\/nochin204.github.io\/sakura1\/wp-content\/plugins\/mailin\/img\/flags\/"};
+var ajax_sib_front_object = {"ajax_url":"https:\/\/nochin204.github.io\/sakura1\/wp-admin\/admin-ajax.php","ajax_nonce":"ff2a1c304e","flag_url":"https:\/\/nochin204.github.io\/sakura1\/wp-content\/plugins\/mailin\/img\/flags\/"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://nochin204.github.io/sakura1/wp-content/plugins/mailin/js/mailin-front.js?ver=1632557326" id="sib-front-js-js"></script>
@@ -568,15 +604,16 @@ var ajax_sib_front_object = {"ajax_url":"https:\/\/nochin204.github.io\/sakura1\
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nochin204.github.io/sakura1/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 5.8.1">
 <meta name="generator" content="WooCommerce 5.7.1">
-<!-- Enter your scripts here -->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<style type="text/css" id="custom-background-css">body.custom-background { background-color: #dde5d7; }</style>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" id="custom-background-css">body.custom-background { background-color: #dde5d7; }</style>
 	<link rel="icon" href="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/icons8-next-page-100.png" sizes="32x32">
 <link rel="icon" href="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/icons8-next-page-100.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/icons8-next-page-100.png">
 <meta name="msapplication-TileImage" content="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/icons8-next-page-100.png">
 </head>
 
-<body class="archive tag tag-y-nghia tag-113 custom-background wp-custom-logo theme-hestia ot-vertical-menu woocommerce-no-js header-layout-default">
+<body class="archive tag tag-y-nghia tag-113 custom-background wp-custom-logo theme-hestia ot-vertical-menu woocommerce-no-js header-layout-default elementor-default elementor-kit-375">
 		<div class="wrapper ">
 		<header class="header ">
 			<div style="display: none"></div>		<nav class="navbar navbar-default navbar-fixed-top  hestia_left navbar-not-transparent">
@@ -637,15 +674,33 @@ var ajax_sib_front_object = {"ajax_url":"https:\/\/nochin204.github.io\/sakura1\
 
 <p> <a href="https://nochin204.github.io/sakura1/y-nghia-khong-tuong-an-ben-trong-nhung-cay-sen-da-nho-xinh/#more-689" class="more-link"><span aria-label="Đọc tiếp Ý nghĩa không tưởng ẩn bên trong những cây sen đá nhỏ xinh">(more&hellip;)</span></a></p>
 </div>
-<div class="posted-by vcard author">Bởi <a href="https://nochin204.github.io/sakura1/author/trangochien/" title="Trangochien" class="url"><b class="author-name fn">Trangochien</b></a>, <a href="https://nochin204.github.io/sakura1/y-nghia-khong-tuong-an-ben-trong-nhung-cay-sen-da-nho-xinh/"><time class="entry-date published" datetime="2021-09-25T14:41:13+07:00" content="2021-09-25">1 ngày</time><time class="updated hestia-hidden" datetime="2021-09-25T14:41:16+07:00">Tháng Chín 25, 2021</time> trước </a>
+<div class="posted-by vcard author">Bởi <a href="https://nochin204.github.io/sakura1/author/trangochien/" title="Trangochien" class="url"><b class="author-name fn">Trangochien</b></a>, <a href="https://nochin204.github.io/sakura1/y-nghia-khong-tuong-an-ben-trong-nhung-cay-sen-da-nho-xinh/"><time class="entry-date published" datetime="2021-09-25T14:41:13+07:00" content="2021-09-25">2 ngày</time><time class="updated hestia-hidden" datetime="2021-09-25T14:41:16+07:00">Tháng Chín 25, 2021</time> trước </a>
 </div>
 </div>
 </div></article>				</div>
 					<div class="col-md-3 blog-sidebar-wrapper col-md-offset-1">
 		<aside id="secondary" class="blog-sidebar" role="complementary">
-						<div id="block-9" class="widget widget_block">
-<div class="widget widget_categories">
-<h2 class="widgettitle">Chuyên mục</h2>
+						
+		<div id="recent-posts-3" class="widget widget_recent_entries">
+		<h5>Bài viết mới</h5>
+		<ul>
+											<li>
+					<a href="https://nochin204.github.io/sakura1/kinh-nghiem-chon-chau-trong-sen-da-ma-ban-nhat-dinh-phai-nam-ro/">Kinh nghiệm chọn chậu trồng sen đá mà bạn nhất định phải nắm rõ</a>
+									</li>
+											<li>
+					<a href="https://nochin204.github.io/sakura1/y-nghia-khong-tuong-an-ben-trong-nhung-cay-sen-da-nho-xinh/">Ý nghĩa không tưởng ẩn bên trong những cây sen đá nhỏ xinh</a>
+									</li>
+											<li>
+					<a href="https://nochin204.github.io/sakura1/8-tuyet-chieu-de-cham-soc-cay-canh-vao-mua-he-nang-gat/">8 tuyệt chiêu để chăm sóc cây cảnh vào mùa hè nắng gắt?</a>
+									</li>
+											<li>
+					<a href="https://nochin204.github.io/sakura1/kinh-nghiem-trong-va-cham-soc-sen-da-len-mau-chuan-nhu-o-vuon/">Kinh nghiệm trồng và chăm sóc sen đá lên màu chuẩn như ở vườn</a>
+									</li>
+					</ul>
+
+		</div>
+<div id="categories-5" class="widget widget_categories">
+<h5>Chuyên mục</h5>
 			<ul>
 					<li class="cat-item cat-item-115">
 <a href="https://nochin204.github.io/sakura1/category/kinh-nghiem/">kinh nghiệm</a>
@@ -659,23 +714,9 @@ var ajax_sib_front_object = {"ajax_url":"https:\/\/nochin204.github.io\/sakura1\
 			</ul>
 
 			</div>
-<div class="widget_text widget widget_custom_html">
-<h2 class="widgettitle">Về chúng tôi</h2>
-<div class="textwidget custom-html-widget"><p style="font-size:16px">  
-Tôi là sakura một người đam mê thời trang với hy vọng mang tới cho bạn những item bổ ích để xây dựng thương hiệu bản thân.
-</p></div>
-</div>
-</div>
-<div id="block-22" class="widget widget_block">
-<h2>Recent Posts</h2>
-
-
-<ul class="wp-block-latest-posts__list wp-block-latest-posts">
-<li><a href="https://nochin204.github.io/sakura1/kinh-nghiem-chon-chau-trong-sen-da-ma-ban-nhat-dinh-phai-nam-ro/">Kinh nghiệm chọn chậu trồng sen đá mà bạn nhất định phải nắm rõ</a></li>
-<li><a href="https://nochin204.github.io/sakura1/y-nghia-khong-tuong-an-ben-trong-nhung-cay-sen-da-nho-xinh/">Ý nghĩa không tưởng ẩn bên trong những cây sen đá nhỏ xinh</a></li>
-<li><a href="https://nochin204.github.io/sakura1/8-tuyet-chieu-de-cham-soc-cay-canh-vao-mua-he-nang-gat/">8 tuyệt chiêu để chăm sóc cây cảnh vào mùa hè nắng gắt?</a></li>
-<li><a href="https://nochin204.github.io/sakura1/kinh-nghiem-trong-va-cham-soc-sen-da-len-mau-chuan-nhu-o-vuon/">Kinh nghiệm trồng và chăm sóc sen đá lên màu chuẩn như ở vườn</a></li>
-</ul>
+<div id="recent-comments-3" class="widget widget_recent_comments">
+<h5>Phản hồi gần đây</h5>
+<ul id="recentcomments"></ul>
 </div>					</aside><!-- .sidebar .widget-area -->
 	</div>
 				</div>
@@ -686,9 +727,14 @@ Tôi là sakura một người đam mê thời trang với hy vọng mang tới 
 								
 		<div class="content">
 			<div class="row">
-				<div class="col-md-4"><div id="block-24" class="widget widget_block">
+				<div class="col-md-4">
+<div id="block-29" class="widget widget_block widget_text">
+<p></p>
+</div>
+<div id="block-24" class="widget widget_block">
 <ul><li></ul>
-</div></div>
+</div>
+</div>
 <div class="col-md-4"><div id="block-19" class="widget widget_block"></div></div>			</div>
 		</div>
 		<hr>
@@ -718,7 +764,7 @@ Tôi là sakura một người đam mê thời trang với hy vọng mang tới 
           }(document, 'script', 'facebook-jssdk'));</script>
           <div class="fb-customerchat" attribution="wordpress" attribution_version="2.2" page_id="105418541905566">
         </div>
-        <!-- Enter your scripts here -->
+        
 		<button class="hestia-scroll-to-top">
 			<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512" width="12.5px" height="20px"><path d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"></path></svg>
 		</button>
