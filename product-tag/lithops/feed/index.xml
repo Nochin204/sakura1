@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/lithops/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nochin204.github.io/sakura1</link>
 	<description>Thiên đường sen đá</description>
-	<lastBuildDate>Sun, 26 Sep 2021 02:23:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Sep 2021 09:34:15 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,9 +36,10 @@
 		<pubDate>Sun, 26 Sep 2021 02:20:18 +0000</pubDate>
 				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=730</guid>
 
-					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/0b982d18e080d07e96af31eae82df243.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" />-Thạch lan(1 cây), kích thước khoảng 5 cm
-
--Cây không có chậu sẳn.]]></description>
+					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/0b982d18e080d07e96af31eae82df243.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" /><ul>
+ 	<li>kích thước ~ 5 cm</li>
+ 	<li>không chậu.</li>
+</ul>]]></description>
 		
 					<wfw:commentRss>https://nochin204.github.io/sakura1/product/thach-lan-size-dai/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -54,9 +55,11 @@
 		<pubDate>Sun, 26 Sep 2021 02:17:19 +0000</pubDate>
 				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=729</guid>
 
-					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/sen-da-thach-lan-140520-019.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" />-Thạch lan, kích thước khoảng 1 cm, hơn 15 cây trong chậu
-
--Cây trồng sẳn trong chậu mũ.]]></description>
+					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/sen-da-thach-lan-140520-019.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" /><ul>
+ 	<li>kích thước ~ 1 cm.</li>
+ 	<li>hơn 15 cây trong chậu.</li>
+</ul>
+&#160;]]></description>
 		
 					<wfw:commentRss>https://nochin204.github.io/sakura1/product/thach-lanco-chau/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -72,7 +75,7 @@
 		<pubDate>Sat, 25 Sep 2021 03:17:47 +0000</pubDate>
 				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=632</guid>
 
-					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/lithops2.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" />-Thạch lan, kích thước khoảng 1 cm
+					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/lithops2.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" />-kích thước < 1cm
 
 -Cây không có chậu sẳn.]]></description>
 		
