@@ -11,11 +11,39 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nochin204.github.io/sakura1</link>
 	<description>Thiên đường sen đá</description>
-	<lastBuildDate>Fri, 01 Oct 2021 04:39:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Oct 2021 08:56:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-</channel>
+	<item>
+		<title>
+		Phản hồi cho Các loại sen đá hiếm có 1 0 2 mà bạn không thể bỏ lỡ bởi Trangochien		</title>
+		<link>https://nochin204.github.io/sakura1/cac-loai-sen-da-hiem-co-1-0-2/#comment-51</link>
+
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Fri, 08 Oct 2021 04:39:46 +0000</pubDate>
+		<guid isPermaLink="false">https://nochin204.github.io/sakura1/?p=1160#comment-51</guid>
+
+					<description><![CDATA[wowww thật là đẹp]]></description>
+			<content:encoded><![CDATA[<p>wowww thật là đẹp</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Top 5 Sen Đá đẹp và đầy ý nghĩa bởi Trangochien		</title>
+		<link>https://nochin204.github.io/sakura1/top-5-sen-da-dep-va-day-y-nghia/#comment-50</link>
+
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Thu, 07 Oct 2021 12:27:22 +0000</pubDate>
+		<guid isPermaLink="false">https://nochin204.github.io/sakura1/?p=1132#comment-50</guid>
+
+					<description><![CDATA[một bài viết rất hay và thú vị]]></description>
+			<content:encoded><![CDATA[<p>một bài viết rất hay và thú vị</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
