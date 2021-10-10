@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/echino/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nochin204.github.io/sakura1</link>
 	<description>Thiên đường sen đá</description>
-	<lastBuildDate>Fri, 01 Oct 2021 03:21:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Oct 2021 12:09:45 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,40 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Xương rồng echino nhỏ</title>
+		<title>Xương rồng echino</title>
 		<link>https://nochin204.github.io/sakura1/product/xuong-rong-echino-nho/</link>
-					<comments>https://nochin204.github.io/sakura1/product/xuong-rong-echino-nho/#respond</comments>
+					<comments>https://nochin204.github.io/sakura1/product/xuong-rong-echino-nho/#comments</comments>
 		
 		<dc:creator><![CDATA[Trangochien]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 02:32:23 +0000</pubDate>
 				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=731</guid>
 
 					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/unnamed.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" /><ul>
- 	<li>echino size nhỏ 1 đầu.</li>
- 	<li>trồng trong chậu nhựa.</li>
+ 	<li>echino có 2 loại : 1 đầu và dạng bụi</li>
+ 	<li>sản phẩm nhỏ sẽ trồng sẳn trong ly nhựa</li>
+ 	<li>sản phẩm bụi sẽ trồng trong chậu mũ</li>
 </ul>]]></description>
 		
 					<wfw:commentRss>https://nochin204.github.io/sakura1/product/xuong-rong-echino-nho/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Xương rồng echino size đại</title>
-		<link>https://nochin204.github.io/sakura1/product/xuong-rong-echino/</link>
-					<comments>https://nochin204.github.io/sakura1/product/xuong-rong-echino/#respond</comments>
-		
-		<dc:creator><![CDATA[Trangochien]]></dc:creator>
-		<pubDate>Fri, 24 Sep 2021 05:24:19 +0000</pubDate>
-				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=611</guid>
-
-					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/xrechino.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" /><ul>
- 	<li>kích thước ~ 15 cm</li>
- 	<li>được trồng trong chậu nhựa.</li>
-</ul>]]></description>
-		
-					<wfw:commentRss>https://nochin204.github.io/sakura1/product/xuong-rong-echino/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>

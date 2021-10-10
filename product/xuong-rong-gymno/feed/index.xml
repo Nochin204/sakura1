@@ -11,11 +11,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/product/xuong-rong-gymno/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nochin204.github.io/sakura1/product/xuong-rong-gymno/</link>
 	<description>Thiên đường sen đá</description>
-	<lastBuildDate>Tue, 28 Sep 2021 09:41:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Oct 2021 12:37:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: Trangochien		</title>
+		<link>https://nochin204.github.io/sakura1/product/xuong-rong-gymno/#comment-53</link>
+
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Sat, 09 Oct 2021 12:36:55 +0000</pubDate>
+		<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=583#comment-53</guid>
+
+					<description><![CDATA[sản phẩm rất tốt]]></description>
+			<content:encoded><![CDATA[<p>sản phẩm rất tốt</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

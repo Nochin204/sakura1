@@ -7,15 +7,29 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Xương rồng echino nhỏ	</title>
+	Các phản hồi luận về: Xương rồng echino	</title>
 	<atom:link href="http://localhost/myproject/wordpress/product/xuong-rong-echino-nho/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nochin204.github.io/sakura1/product/xuong-rong-echino-nho/</link>
 	<description>Thiên đường sen đá</description>
-	<lastBuildDate>Fri, 01 Oct 2021 00:24:54 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Oct 2021 12:09:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: Trangochien		</title>
+		<link>https://nochin204.github.io/sakura1/product/xuong-rong-echino-nho/#comment-52</link>
+
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Sat, 09 Oct 2021 12:07:57 +0000</pubDate>
+		<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=731#comment-52</guid>
+
+					<description><![CDATA[sản phẩm tốt]]></description>
+			<content:encoded><![CDATA[<p>sản phẩm tốt</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

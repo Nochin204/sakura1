@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/dung-cu-lam-vuon/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nochin204.github.io/sakura1</link>
 	<description>Thiên đường sen đá</description>
-	<lastBuildDate>Thu, 30 Sep 2021 08:09:53 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Oct 2021 07:13:00 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bộ 10 dụng cụ làm vườn</title>
+		<link>https://nochin204.github.io/sakura1/product/bo-10-mon-dung-cu-lam-vuon/</link>
+					<comments>https://nochin204.github.io/sakura1/product/bo-10-mon-dung-cu-lam-vuon/#respond</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Thu, 30 Sep 2021 08:07:07 +0000</pubDate>
+				<guid isPermaLink="false">https://nochin204.github.io/sakura1/?post_type=product&#038;p=1089</guid>
+
+					<description><![CDATA[<img width="150" height="150" src="https://nochin204.github.io/sakura1/wp-content/uploads/2021/09/21bf98028f01a3943ed7f9f6e1b20e1f.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" />Chất liệu: nhựa, gỗ, sắt, cao su, thép không gỉ
+
+Màu: Màu hồng, xanh dương.]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura1/product/bo-10-mon-dung-cu-lam-vuon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Bộ Dụng Cụ Trồng Sen</title>
 		<link>https://nochin204.github.io/sakura1/product/bo-dung-cu-trong-sen/</link>
 					<comments>https://nochin204.github.io/sakura1/product/bo-dung-cu-trong-sen/#respond</comments>
